@@ -57,25 +57,25 @@ Os eventos foram coletados e analisados através do Event Viewer.
 
 ### Event Viewer
 
-![Event Viewer](evidencias/eventviewer.png)
+![Event Viewer](Evidencias/eventviewer.png)
 
 ---
 
 ### Evento 4625 — Falha de login
 
-![4625](evidencias/login-falhou-4625.png)
+![4625](Evidencias/login-falhou-4625.png)
 
 ---
 
 ### Evento 4624 — Login bem-sucedido
 
-![4624](evidencias/login-sucesso-4624.png)
+![4624](Evidencias/login-sucesso-4624.png)
 
 ---
 
 ### Event Viewer filtrado
 
-![Event Viewer](evidencias/eventviewer-filtrado.png)
+![Event Viewer](Evidencias/eventviewer-filtrado.png)
 
 ---
 
